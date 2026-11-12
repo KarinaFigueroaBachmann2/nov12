@@ -1,0 +1,16 @@
+﻿id,patente,tipo_vehiculo,marca_modelo,anio,kilometraje_actual,estado_operativo
+1,ABCD-12,Vehículo Táctico,Mowag Piranha III,2018,45200,Operativo
+2,EFGH-34,Camión Logístico,Mercedes-Benz Atego,2020,31000,Operativo
+3,JKLM-56,SUV Institucional,Toyota Land Cruiser Prado,2022,18500,Operativo
+4,NPQR-78,Camioneta 4x4,Mitsubishi L200 Katana,2023,12400,Operativo
+5,STUV-90,Camioneta 4x4,Nissan Navara D23,2021,54000,Requiere Mantención
+6,WXYZ-11,Minibus de Personal,Hyundai H1 / Staria,2019,68900,Operativo
+7,BBCC-22,Vehículo Táctico,Humvee HMMWV,2015,89200,Requiere Mantención
+8,DDEE-33,Camión Aljibe,Freightliner M2,2017,76000,Crítico
+9,FFGG-44,Automóvil de Enlace,Chevrolet Sail,2022,24100,Operativo
+10,HHII-56,Automóvil de Enlace,Kia Rio 5,2021,41200,Operativo
+11,JJKK-78,SUV Institucional,Toyota RAV4,2023,9500,Operativo
+12,LLMM-90,Camión de Carga,JAC Gallop Heavy Duty,2020,52300,Operativo
+13,NNPP-12,Minibus de Personal,Toyota Hiace,2022,19800,Operativo
+14,RRSS-34,Camioneta 4x4,Ford Ranger 4x4,2022,27600,Operativo
+15,TTWW-56,Vehículo Especial,Polaris Ranger RZR (Reconocimiento),2023,4200,Operativo
