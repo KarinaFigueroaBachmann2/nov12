@@ -6,3 +6,12 @@ __pycache__/
 *.pyc
 
 .DS_Store
+
+autorizaciones.xlsx
+conductores.xlsx
+vehiculos.xlsx
+
+autorizaciones.csv
+conductores.csv
+vehiculos.csv
+
