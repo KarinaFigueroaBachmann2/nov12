@@ -1,7 +1,8 @@
 import pandas as pd
 from supabase import create_client
 
-SUPABASE_URL = "https://apkqaalyrgzblzdvdrmj.supabase.co"
+SUPABASE_URL = "https://apkqaalyrgzblzdvdrmj.supabase.co
+"
 SUPABASE_KEY = "sb_secret_92z0vL4zFo6LizHWdeq02g_Rbf5D1-4"
 
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
