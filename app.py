@@ -25,19 +25,8 @@ st.set_page_config(
 
 
 st.title(
-    "🚙 Sistema de Control Vehicular Militar"
+    "Sistema de Control Vehicular Militar"
 )
-
-st.markdown("""
-### Programación Avanzada
-
-Sistema de:
-
-- Control de acceso vehicular
-- Reporte operacional de conductores
-- Gestión de flota
-- Inteligencia operacional
-""")
 
 st.divider()
 
